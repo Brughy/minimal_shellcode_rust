@@ -1,2 +1,2 @@
 # minimal_shellcode_rust
-Simple example of chellcode injection in memory in Rust 
+Simple example of shellcode injection in memory in Rust 
