@@ -1,0 +1,8 @@
+[package]
+name = "minimal_shellcode_rust"
+version = "0.1.0"
+authors = ["Luca Brugnera <luca.brugnera@gmail.com>"]
+edition = "2021"
+
+[dependencies]
+libc = "0.2"
